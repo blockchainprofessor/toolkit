@@ -146,14 +146,14 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/PlatinumFinanceOfficial",
+        href: "http://t.me/mantarayfinance",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/PlatinumPolygon",
+    href: "https://twitter.com/mantarayfinance",
   },  
 ];
 
